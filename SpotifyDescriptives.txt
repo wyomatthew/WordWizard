@@ -110,3 +110,11 @@ number of values: 210013
 count: 1204025
 interval: (1.000, 6061.090)
 ----------------------
+Year has:
+mean: 2007.344
+median: 2009.000
+standard deviation: 10.629
+number of values: 100
+count: 1204015
+interval: (1900.000, 2020.000)
+----------------------
