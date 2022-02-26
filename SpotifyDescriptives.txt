@@ -95,12 +95,12 @@ count: 1201248
 interval: (30.018, 248.934)
 ----------------------
 Time_signature has:
-mean: 3.832
+mean: 3.841
 median: 4.000
-standard deviation: 0.561
-number of values: 5
-count: 1204025
-interval: (0.000, 5.000)
+standard deviation: 0.530
+number of values: 4
+count: 1201216
+interval: (1.000, 5.000)
 ----------------------
 Duration_s has:
 mean: 248.840
