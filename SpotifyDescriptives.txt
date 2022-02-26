@@ -1,0 +1,84 @@
+Explicit_bool has:
+mean: 0.069
+median: 0.000
+standard deviation: 0.253
+interval: (0.000, 1.000)
+----------------------
+Danceability has:
+mean: 0.493
+median: 0.501
+standard deviation: 0.190
+interval: (0.000, 1.000)
+----------------------
+Energy has:
+mean: 0.510
+median: 0.524
+standard deviation: 0.295
+interval: (0.000, 1.000)
+----------------------
+Key has:
+mean: 5.194
+median: 5.000
+standard deviation: 3.537
+interval: (0.000, 11.000)
+----------------------
+Loudness has:
+mean: -11.809
+median: -9.791
+standard deviation: 6.982
+interval: (-60.000, 7.234)
+----------------------
+Mode has:
+mean: 0.671
+median: 1.000
+standard deviation: 0.470
+interval: (0.000, 1.000)
+----------------------
+Speechiness has:
+mean: 0.084
+median: 0.045
+standard deviation: 0.116
+interval: (0.000, 0.969)
+----------------------
+Acousticness has:
+mean: 0.447
+median: 0.389
+standard deviation: 0.385
+interval: (0.000, 0.996)
+----------------------
+Instrumentalness has:
+mean: 0.283
+median: 0.008
+standard deviation: 0.376
+interval: (0.000, 1.000)
+----------------------
+Liveness has:
+mean: 0.202
+median: 0.125
+standard deviation: 0.180
+interval: (0.000, 1.000)
+----------------------
+Valence has:
+mean: 0.428
+median: 0.403
+standard deviation: 0.270
+interval: (0.000, 1.000)
+----------------------
+Tempo has:
+mean: 117.906
+median: 116.872
+standard deviation: 30.451
+interval: (30.018, 248.934)
+----------------------
+Time_signature has:
+mean: 3.832
+median: 4.000
+standard deviation: 0.561
+interval: (0.000, 5.000)
+----------------------
+Duration_s has:
+mean: 248.840
+median: 224.339
+standard deviation: 162.210
+interval: (1.000, 6061.090)
+----------------------
