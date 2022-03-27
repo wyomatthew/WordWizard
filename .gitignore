@@ -5,3 +5,7 @@
 
 # DONT track Jupyter notebooks
 *.ipynb
+
+# DONT track testing file
+Test.py
+__pycache__
