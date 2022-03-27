@@ -2,6 +2,14 @@ import re
 
 class Frequencies(object):
     def __init__(self, min_len: int = 3, max_len: int = 15):
+        """Constructor to build a tracker for word frequencies.
+        
+        Parameters
+        ----------
+        min_len: int
+            minimum length of a word to be counted
+        max_len: int
+            maximum length of a word to be counted"""
         # initialize frequency dictionary
         self.freqs: dict[str, int] = dict()
         self.min_len = min_len
@@ -21,9 +29,13 @@ class Frequencies(object):
             count = self.freqs.get(match, 0)
             self.freqs[match] = count + 1
     
-    def get_freqs(self) -> "dict[str, int]":
+    def get_freq_dict(self) -> "dict[str, int]":
         """Returns copy of internal frequency dictionary"""
         return self.freqs.copy()
+
+    def get_freq_arr(self) -> "list[list]":
+        """Returns copy of internal frequency dictionary as 2d array"""
+        return list(self.freqs.items())
 
     @staticmethod
     def clean_text(doc: str) -> str:
