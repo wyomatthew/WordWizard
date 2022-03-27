@@ -1,3 +1,6 @@
 # DONT track datasets
-tracks_features.csv
-abcnews-date-text.csv
+*.zip
+*.csv
+
+# DONT track Jupyter notebooks
+*.ipynb
