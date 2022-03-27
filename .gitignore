@@ -1,6 +1,7 @@
 # DONT track datasets
 *.zip
 *.csv
+*.xlsx
 
 # DONT track Jupyter notebooks
 *.ipynb
